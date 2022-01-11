@@ -2,6 +2,8 @@
 
 I'm a Professor in Biostatics at University of California, Los Angeles (UCLA). 
 
+![](https://komarev.com/ghpvc/?username=Hua-Zhou)
+
 ---
 
 🧰 Toolbox
@@ -16,4 +18,10 @@ I'm a Professor in Biostatics at University of California, Los Angeles (UCLA).
 
 [![Hua Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hua-Zhou&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+[![Hua Zhou's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hua-Zhou&theme=radical)](https://git.io/streak-stats)
+
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
