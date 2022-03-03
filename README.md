@@ -1,6 +1,6 @@
 ### Hi there, I'm Dr. Hua Zhou 👋
 
-I'm a Professor in Biostatics at University of California, Los Angeles (UCLA). 
+I'm a Professor in Biostatistics at University of California, Los Angeles (UCLA). 
 
 ![](https://komarev.com/ghpvc/?username=Hua-Zhou)
 
