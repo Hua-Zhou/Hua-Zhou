@@ -1,4 +1,4 @@
-# Hi, I’m Hua
+a# Hi, I’m Hua
 
 [One sentence about a technical interest and the kind of project you enjoy.]
 
@@ -52,7 +52,7 @@ I'm Professor of Biostatistics and Computational Medicine at University of Calif
 ## &#x1f4c8; Hua's GitHub Stats
 
 [![Hua's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-karpathy&hide=java,javascript,html,css,limbo&theme=radical&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+Hua-Zhou&hide=java,javascript,html,css,limbo&theme=radical&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hua-Zhou&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
