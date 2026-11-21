@@ -1,4 +1,4 @@
-a# Hi, I’m Hua
+# Hi, I’m Hua
 
 [One sentence about a technical interest and the kind of project you enjoy.]
 
