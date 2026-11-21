@@ -53,11 +53,11 @@ I'm Professor of Biostatistics and Computational Medicine at University of Calif
 
 [![Hua's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpathy&hide=java,javascript,html,css,limbo&theme=radical&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hua-Zhou&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hua's GitHub stats](https://github-readme-stats.vercel.app/api?username=karpathy&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Hua's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hua-Zhou&theme=radical)](https://git.io/streak-stats)
+[![Hua's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karpathy&theme=radical)](https://git.io/streak-stats)
 
 ---
 
